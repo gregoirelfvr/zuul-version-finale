@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Character
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Character\ here.\r\n\r\n\ @author\ LEFEVRE\ Gregoire\r\n\ @version\ vFinale\r\n
+comment1.params=pName\ pDialogue\ pRoomChara
+comment1.target=Character(java.lang.String,\ java.lang.String,\ Room)
+comment1.text=\r\n\ Constructeur\ de\ Character\ (Personnages)\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ Accesseur\ du\ nom\ du\ Personnage\ \r\n
+comment3.params=
+comment3.target=java.lang.String\ getDialogue()
+comment3.text=\r\n\ Accesseur\ du\ dialogue\ du\ Personnage\ \r\n
+comment4.params=
+comment4.target=Room\ getRoomChara()
+comment4.text=\r\n\ \ Accesseur\ de\ la\ piece\ dans\ laquelle\ se\ trouve\ le\ Personnage\r\n
+comment5.params=pString
+comment5.target=void\ setName(java.lang.String)
+comment5.text=\r\n\ Modificateur\ du\ nom\ du\ Personnage\ \r\n\ \r\n\ @param\ pString\r\n
+comment6.params=pString
+comment6.target=void\ setDialogue(java.lang.String)
+comment6.text=\r\n\ Modificateur\ du\ dialogue\ du\ Personnage\r\n\ \r\n\ @param\ pString\r\n
+comment7.params=pRoom
+comment7.target=void\ setRoomChara(Room)
+comment7.text=\r\n\ Modificateur\ de\ la\ piece\ du\ Personnage\ \r\n
+numComments=8

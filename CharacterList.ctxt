@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=CharacterList
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ CharacterList\ here.\r\n\r\n\ @author\ LEFEVRE\ Gregoire\r\n\ @version\ vFinale\ \r\n
+comment1.params=
+comment1.target=CharacterList()
+comment1.text=\r\n\ Constructeur\ CharcaterList()\r\n
+comment2.params=
+comment2.target=java.lang.String\ getCharacterString()
+comment2.text=\r\n\ Accesseur\ en\ String\ des\ Personnages\ present\ dans\ la\ piece\r\n
+comment3.params=pCharacter
+comment3.target=Character\ getCharacter(java.lang.String)
+comment3.text=\r\n\ Accesseur\ du\ Personnage\ present\ dans\ la\ HashMap\r\n\ @param\ pCharacter\r\n
+comment4.params=pName
+comment4.target=void\ removeCharacter(java.lang.String)
+comment4.text=\r\n\ Permet\ d'enlever\ un\ Personnage\ de\ la\ HashMap\r\n\ @param\ pName\r\n
+comment5.params=pCharacter
+comment5.target=void\ setCharacters(Character)
+comment5.text=\r\n\ Methode\ permettant\ d'ajouter\ un\ Personnage\ a\ la\ HashMap\r\n\ \r\n\ @param\ pCharacter\r\n
+numComments=6

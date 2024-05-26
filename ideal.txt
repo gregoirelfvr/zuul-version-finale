@@ -1,0 +1,16 @@
+go south
+go east
+go south
+go south
+go south
+go south
+take pill
+go north
+go north
+go east
+go down
+go east
+go north
+go north
+take robot
+go south

@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=ItemList
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ItemList\ here.\r\n\r\n\ @author\ LEFEVRE\ Gregoire\r\n\ @version\ vFinale\r\n
+comment1.params=pTypeList
+comment1.target=ItemList(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getItemString()
+comment2.text=\r\n\ Getter\ de\ l'Item\ en\ String\r\n
+comment3.params=pItem
+comment3.target=Item\ getItem(java.lang.String)
+comment3.text=\r\n\ getter\ getItem()\ retourne\ l'Item\ dans\ la\ Hashmap\r\n\ @param\ pItem\r\n
+comment4.params=
+comment4.target=java.util.HashMap\ getItems()
+comment4.text=\r\n\ getter\ getItems()\ retourne\ la\ Hashmap\r\n
+comment5.params=pNom\ pItem
+comment5.target=void\ addItem(java.lang.String,\ Item)
+comment5.text=\r\n\ Ajoute\ un\ Item\ \r\n
+comment6.params=pNom
+comment6.target=void\ removeItem(java.lang.String)
+comment6.text=\r\n\ Enleve\ un\ Item\ \r\n\ @param\ pNom\r\n
+comment7.params=pItem
+comment7.target=void\ setItems(Item)
+comment7.text=\r\n\ \ ajoute\ un\ item\ sans\ son\ nom\r\n\ \ @param\ pItem\r\n
+numComments=8

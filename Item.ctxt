@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Item
+comment0.text=\r\n\ Classe\ pour\ les\ objets\ se\ trouvant\ dans\ les\ Rooms\r\n\r\n\ @author\ LEFEVRE\ Gregoire\r\n\ @version\ v4\r\n
+comment1.params=pNom\ pDescription\ pPoids
+comment1.target=Item(java.lang.String,\ java.lang.String,\ int)
+comment1.text=\r\n\ Constructeur\ d'Item\r\n
+comment2.params=
+comment2.target=java.lang.String\ getNomItem()
+comment2.text=\r\n\ getter\ du\ nom\ de\ l'Item\r\n
+comment3.params=
+comment3.target=java.lang.String\ getDescriptionItem()
+comment3.text=\r\n\ getter\ de\ la\ description\ de\ l'objet\r\n
+comment4.params=
+comment4.target=int\ getPoidsItem()
+comment4.text=\r\n\ getter\ du\ poid\ de\ l'objet\r\n
+comment5.params=
+comment5.target=java.lang.String\ getLongDescriptionItem()
+comment5.text=\r\n\ getter\ de\ la\ longue\ description\ de\ l'objet\r\n
+numComments=6

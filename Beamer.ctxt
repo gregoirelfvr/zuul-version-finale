@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Beamer
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Beamer\ here.\r\n\r\n\ @author\ LEFEVRE\ Gregoire\r\n\ @version\ vFinale\r\n
+comment1.params=
+comment1.target=Beamer()
+comment1.text=\r\n\ Constructeur\ Beamer\r\n
+comment2.params=pRoom
+comment2.target=void\ chargeBeamer(Room)
+comment2.text=\r\n\ Methode\ chargeBeamer(final\ Room\ pRoom)\r\n\ \r\n\ @param\ pRoom\r\n
+comment3.params=
+comment3.target=Room\ fireBeamer()
+comment3.text=\r\n\ Fonction\ qui\ retourne\ la\ room\ charger\ dans\ le\ beamer\r\n
+comment4.params=
+comment4.target=boolean\ isCharged()
+comment4.text=\r\n\ Boolean\ qui\ indique\ si\ le\ beamer\ est\ charge\ ou\ pas\ \r\n
+numComments=5
